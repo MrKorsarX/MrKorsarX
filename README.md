@@ -1,10 +1,13 @@
-<h1 align="center"> Привет, я Кавицян Киркор <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"> </h1>
+<h1 align="center"> Привет <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"> </h1>
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/7c8QeB0VMddFOuu4iR/giphy.gif" width="500"/>
 </div>
 
-### Мои контакты
+# Я DataScientist/ML engeneer
+Получив знания и опыт в направлении прикладной статистики понял, что специалисты в области DS, по моему мнению, являются квинтесенцией ИТ. С одной стороны требуется грамотно обрабатывать данные в рамках решения конкретной проблемы бизнеса, попутно выявляя нетривиальные зависимости и инсайты в данных. С другой стороны, требуется умение писать и читать код, переиспользовать SOTA пайплайны, оптимизировать свои решения.
+
+# Мои контакты
 
 <div id="badges">
   
@@ -17,13 +20,6 @@
   <img src="https://img.shields.io/badge/Gmail-blue?logo=gmail&logoColor=red"/> kirkor96@gmail.com
   
 </div>
-
-### Я DataScientist/ML engeneer
-Учась на заочке понял, что тема с исследованием данных достаточно интересная и хочется этим заниматься.
-Поставил цель освоить машинное обучение, но быстро пришел к выводу, что без структурированной базы знаний далеко не уедешь.
-Для погружения в DS прошел Karpov Courses - Start ML. В результате нашел дело по душе.
-
-Проходя курс параллельно готовил пет проекты и участвовал в соревнованиях, c некоторыми вы можете ознакомиться в репозитории.
 
 ### Стек инструментов и технологий
 
@@ -58,4 +54,10 @@
 
 </div>
 
-# PASS
+# Мои проекты
+## 'to-do: add Projects'
+
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MrKorsarX&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrKorsarX&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
