@@ -1,11 +1,13 @@
-<h1 align="center"> Привет <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"> </h1>
-
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/7c8QeB0VMddFOuu4iR/giphy.gif" width="500"/>
 </div>
 
-# Я DataScientist/ML engeneer
+<h1 align="center"> Привет <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"> </h1>
+
+# Я Киркор Кавицян DataScientist
 Получив знания и опыт в направлении прикладной статистики понял, что специалисты в области DS, по моему мнению, являются квинтесенцией ИТ. С одной стороны требуется грамотно обрабатывать данные в рамках решения конкретной проблемы бизнеса, попутно выявляя нетривиальные зависимости и инсайты в данных. С другой стороны, требуется умение писать и читать код, переиспользовать SOTA пайплайны, оптимизировать свои решения.
+
+Для того чтобы быть в тонусе технологического стека, математического аппарата и прикладной программной реализации, использую такие источники как: 1. Arxiv.org - где можно почерпнуть немало интересного в подборках статей по ML. 2. Харб, который удобен тем, что коллеги переводят статьи на русский и можно быстро найти полезную информацию для решения текущих проблем в работе. Конечно же, есть своя подборка научно популярных каналов на youtube, где можно почерпнуть верхнеуровнево интересные кейсы и факты, чтобы после в них детальнее покопаться и принять в свой практический арсенал.
 
 # Мои контакты
 
@@ -48,6 +50,14 @@
   
 </div>
 
+# Мои проекты:
+
+|Название проекта| Описание проекта| Стек|
+|----------------|-----------------|-----|
+|[Бинарная классификация(модель оттока)](https://github.com/MrKorsarX/kaggle_binary_classification)|Kaggle соревнование, суть которого в том, чтобы по имеющимся данным предсказать вероятность ухода клиента из программы.|**Python** **Pandas** **Numpy** **Scikit-learn** **Catboost** **Matplotlib**|
+|[Скрапер МВидео](https://github.com/MrKorsarX/scraping_Mvideo)|Алгоритм который поможет собрать технические характеристики и отзывы товаров в МВидео.|**Python** **Pandas** **Requests**|
+|[Рекомендательная система](https://github.com/MrKorsarX/RecSys)|Микросервис который поможет отранжировать и порекомендовать юзеру наиболее релевантные, в данный момент, посты.|**Python** **Pandas** **Matplotlib** **Numpy** **Scikit-learn** **catboost** **fastAPI** **SQL** **sqlalchemy**|
+
 <div align="center">
   
 ![](https://komarev.com/ghpvc/?username=MrKorsarXx&color=blue)
@@ -59,3 +69,6 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MrKorsarX&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrKorsarX&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
